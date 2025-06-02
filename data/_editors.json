@@ -1,17 +1,27 @@
 [
     {
         "role": "owner",
-        "name": "BitterCat",
-        "link": "https://www.youtube.com/@Void-Gamer852"
-    },
-    {
-        "role": "owner",
-        "name": "Ezi :3",
-        "link": "https://www.youtube.com/@eziko23"
+        "name": "AcruvationGMD",
+        "link": "https://www.youtube.com/@AcruvationGMD"
     },
     {
         "role": "dev",
-        "name": "Liam",
-        "link": "https://www.youtube.com/@eziko23"
+        "name": "Levi :3",
+        "link": "https://woosh.link/ezi.yup.lol"
+    },
+    {
+        "role": "dev",
+        "name": "Zeddon",
+        "link": "https://linktr.ee/zedd0n"
+    },
+    {
+        "role": "mod",
+        "name": "AxlTheAxolotl",
+        "link": "https://discord.gg/HxAbuckGHt"
+    },
+    {
+        "role": "mod",
+        "name": "People2.0",
+        "link": "https://www.youtube.com/@People2.0_pilz3"
     }
 ]
